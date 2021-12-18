@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api?username=siiiiway)
+![](https://github-readme-stats.vercel.app/api?username=siiiixway)
 
 - 👋 Hi, I’m @of2x
 - 👀 I’m interested in cloud compution,big data etc...
