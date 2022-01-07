@@ -2,9 +2,9 @@
 
 - 👋 Hi, I’m @of2x
 - 👀 I’m interested in cloud compution,big data etc...
-- 🌱 I’m currently learning big data
+- 🌱 I’m currently learning big data, cloud native compution
 - 💞️ I’m looking to collaborate on something exciting
-- 📫 reach me by email xxxx
+- 📫 reach me by email sixwaay@gmail.com
 
 
 
