@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning big data, cloud native compution
 - 💞️ I’m looking to collaborate on something exciting
 - 📫 reach me by email sixwaay@gmail.com
-- my github pages is sixwaaaay.github.io
+- my github pages is [sixwaaaay.github.io](sixwaaaay.github.io)
 
 
 
