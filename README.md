@@ -1,9 +1,13 @@
 
+
+  
 <p align="center">
-  
-    <img src="/github-metrics.svg">
-  
+  <a href="https://github.com/lowlighter/metrics">
+    <img src="./github-metrics.svg">
+  </a>
 </p> 
+  
+
 <!-- ![](https://github-readme-stats.vercel.app/api?username=sixwaaaay) -->
 
 
