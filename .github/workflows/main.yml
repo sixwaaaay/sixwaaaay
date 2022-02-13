@@ -34,7 +34,7 @@ jobs:
           
           plugin_lines: yes
           
-          plugin_activity: yes
+#           plugin_activity: yes
           
           plugin_achievements: yes
           plugin_achievements_threshold: B
