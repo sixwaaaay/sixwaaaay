@@ -1,6 +1,10 @@
-![Metrics](/github-metrics.svg)
 
-![](https://github-readme-stats.vercel.app/api?username=sixwaaaay)
+<p align="center">
+  
+    <img src="/github-metrics.svg">
+  
+</p> 
+<!-- ![](https://github-readme-stats.vercel.app/api?username=sixwaaaay) -->
 
 
 - 👋 Hi, I’m @of2x
