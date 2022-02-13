@@ -1,4 +1,7 @@
+![Metrics](/github-metrics.svg)
+
 ![](https://github-readme-stats.vercel.app/api?username=sixwaaaay)
+
 
 - 👋 Hi, I’m @of2x
 - 👀 I’m interested in cloud compution,big data etc...
