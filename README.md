@@ -7,5 +7,4 @@
 
 
 - 👋 Hi, I’m [@sixwaaaay](https://github.com/sixwaaaay)
-- 📫 reach me by email [lw.2675@qq.com](mailto://lw.2675@qq.com)
-- 🪶 github pages [sixwaaaay.github.io](https://sixwaaaay.github.io/)
+- 📫 reach me by email [lw.2675@qq.com](mailto://lw.2675@qq.com) or [sixwaay@gmail.com](mailto://sixwaay@gmail.com)
